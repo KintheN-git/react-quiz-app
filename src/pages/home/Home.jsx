@@ -61,7 +61,9 @@ const Home = () => {
             </a>
           </div>
           <div className="text-xl mt-5 text-center cursor-pointer hover:underline">
-            View project repository.
+            <a href="https://github.com/KintheN-git/react-quiz-app">
+              View project repository.
+            </a>
           </div>
         </div>
       </div>
